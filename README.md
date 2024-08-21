@@ -1,6 +1,6 @@
 Generates n tickets for the Super 5 (Malta) lottery
 
-Usage: "random numbers genertor" [no. of tickets to play]
+Usage: "random numbers generator" [no. of tickets to play]
 Ex: "random number generator" 10
 
 Console out is saved to file ../tickets.txt
