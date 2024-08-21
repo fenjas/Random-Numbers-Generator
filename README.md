@@ -1,8 +1,11 @@
-Generates n tickets for the Super 5 (Malta) lottery
+## # Super 5 (Malta) Lottery Ticket Generator
 
-Usage: "random numbers generator" [no. of tickets to play]
-Ex: "random number generator" 10
+**Usage**: "random numbers generator" [no. of tickets to play]
 
-Console out is saved to file ../tickets.txt
+`"random number generator" 10`
 
 <img width="535" alt="image" src="https://github.com/user-attachments/assets/3b6f1796-afec-4fe8-af33-712f4047a996">
+
+More info@ https://lottery.mt/super5/about
+
+
