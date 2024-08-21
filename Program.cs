@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace Random_Numbers_Generator
+namespace PRNG
 {
     public class Program
     {

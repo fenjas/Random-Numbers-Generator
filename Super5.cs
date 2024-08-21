@@ -1,4 +1,4 @@
-﻿namespace Random_Numbers_Generator
+﻿namespace PRNG
 {
     internal class Super5
     {
